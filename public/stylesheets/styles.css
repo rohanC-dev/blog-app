@@ -1,0 +1,23 @@
+i.icon{
+    font-size: 2em;
+}
+div form{
+    padding-top: 5%;
+}
+
+#blogSubmit{
+    margin-top: 15px;
+}
+
+.postsContainer{
+    margin-top: 50px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+#readMoreText{
+    padding-top: 10px;
+}
